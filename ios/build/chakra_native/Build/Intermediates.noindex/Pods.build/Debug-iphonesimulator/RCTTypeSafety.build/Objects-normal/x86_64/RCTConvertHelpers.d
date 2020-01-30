@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/karadi/Developer/GA/chakra-native/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/karadi/Developer/GA/chakra-native/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/Optional.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/Portability.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/CPortability.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/Traits.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/Utility.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/karadi/Developer/GA/chakra-native/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
